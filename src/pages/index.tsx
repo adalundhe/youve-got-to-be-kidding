@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>you've got to be f**king kidding me</title>
+        <title>you&apos;ve got to be f**king kidding me</title>
         <meta name="description" content="lol lmao lolz" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -34,7 +34,7 @@ export default function Home() {
          
           <div className="flex flex-col h-fit">
            
-            <h1 className="text-center text-[10vmin]">here's what i think</h1>
+            <h1 className="text-center text-[10vmin]">here&apos;s what i think</h1>
               <div className="flex items-center justify-center w-full h-full">
                 <iframe className="w-full h-[200px] md:h-[400px]" src="https://www.youtube.com/embed/eX1pWJMVlE4?si=HgA8Ko9AHCihI-iA" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
               </div>
